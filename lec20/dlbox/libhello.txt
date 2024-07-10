@@ -1,0 +1,3 @@
+Disassembly of binary libhello.dl:
+
+0000000000000000 <hello>:

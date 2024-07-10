@@ -1,0 +1,5 @@
+Disassembly of binary libc.dl:
+
+0000000000000000 <putchar>:
+
+0000000000000027 <exit>:

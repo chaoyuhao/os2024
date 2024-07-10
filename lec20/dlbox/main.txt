@@ -1,0 +1,3 @@
+Disassembly of binary main.dl:
+
+0000000000000020 <_start>:
